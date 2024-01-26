@@ -1,3 +1,3 @@
 SG
-Course Code: INFO 5139-01-24W
+Course Code: INFO 5146-01-24W
 Year: 2024
